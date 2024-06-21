@@ -1,0 +1,15 @@
+
+
+	15/06/24
+
+		
+	------------------------------------------------------------------------------
+	
+	
+	
+	Project Objectives:
+
+		- Check and experiment NLP summarization models: gtp2, t5, pegasus, bart
+		- pratice Machine Learning aspects
+		- Upload the project to GitHub.
+		
